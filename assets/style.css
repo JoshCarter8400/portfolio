@@ -238,9 +238,11 @@ h6 {
 }
 
 #hero .hero-container {
-  position: relative;
+  position: absolute;
   z-index: 2;
   min-width: 300px;
+  right: 0;
+  margin-right: 40px;
 }
 
 #hero h1 {
